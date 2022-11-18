@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Rebecca Yohannes. Welcome to my Github page.
 <a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+<a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 
 
 <a href="https://github.com/roxiomontes">
