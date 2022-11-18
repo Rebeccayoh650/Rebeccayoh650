@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
+https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
+
+
 <a href="https://github.com/roxiomontes">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
 </a><br>
