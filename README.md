@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Rebecca Yohannes. Welcome to my Github page.
 
 <!--
 **Rebeccayoh650/Rebeccayoh650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
